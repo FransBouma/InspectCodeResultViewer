@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+packages/SD.Tools.BCLExtensions.1.0.0/SD.Tools.BCLExtensions.1.0.0.nupkg
+packages/SD.Tools.BCLExtensions.1.0.0/lib/SD.Tools.BCLExtensions.XML
+packages/SD.Tools.BCLExtensions.1.0.0/lib/SD.Tools.BCLExtensions.dll
